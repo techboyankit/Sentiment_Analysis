@@ -1,4 +1,30 @@
-'victimized': 'cheated',
+# Millenial Language
+ 'nxt': 'next'
+ '2mrw': 'tomorrow'
+ 'things r gud': 'things are good'
+ 'gud': 'good'
+ 'LMK': 'Let me know'
+ 'TBA': 'To be announced'
+ 'TBH': 'To be honest'
+ 'TBC': 'To be confirmed'
+ 'TGIF': 'Thank God its Friday'
+ 'DIY': 'Do it yourself'
+ 'RSVP': 'Please wait'
+ 'BRB': Be right back
+ 'IMO': In my opinion
+ 'IDK': I don't know
+ 'AKA': Also known as
+ 'NA': Not available
+ 'IRL': In real life
+ 'RT': Retweet
+ 'WDYMBT': What do you mean by that
+ 'GTR': Getting ready
+ 'TBT': Throwback Thursday
+ 'NBD': No big deal
+ 'ICYMI': In case you missed it
+ 
+ #Emotions (including sarcastic and double negation)
+ 'victimized': 'cheated',
  'accused': 'cheated',
  'acquitted': 'singled out',
  'adorable': 'loved',
