@@ -23,7 +23,7 @@
  'NBD': No big deal
  'ICYMI': In case you missed it
  
- #Emotions (including sarcastic and double negation)
+ #Emotions (including sarcastic and double negation words)
  'victimized': 'cheated',
  'accused': 'cheated',
  'acquitted': 'singled out',
